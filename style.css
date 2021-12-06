@@ -1,0 +1,7 @@
+form {
+    display: flex;
+}
+div.while-for {
+    display: flex;
+    flex-direction: column;
+}
