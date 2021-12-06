@@ -1,0 +1,11 @@
+form {
+    display: flex;
+}
+div.while-for {
+    display: flex;
+    flex-direction: column;
+}
+div.content {
+    display: flex;
+    margin: 20px;
+}
